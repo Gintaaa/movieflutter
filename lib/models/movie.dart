@@ -66,7 +66,7 @@ List<Movie> movies = [
   ),
   Movie(
     id: 2,
-    title: "Ford v Ferrari ",
+    title: "The Social Network ",
     year: 2019,
     poster: "assets/images/poster_2.jpg",
     backdrop: "assets/images/backdrop_2.jpg",
@@ -106,7 +106,7 @@ List<Movie> movies = [
   ),
   Movie(
     id: 1,
-    title: "Onward",
+    title: "Source Code",
     year: 2020,
     poster: "assets/images/poster_3.jpg",
     backdrop: "assets/images/backdrop_3.jpg",
